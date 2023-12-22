@@ -1,7 +1,7 @@
 local colors = {
   fg = "#c0caf5",
-  bg = "#151515",
-  bg_dark = "#121212",
+  bg = "#121212",
+  bg_dark = "#101010",
   bg_highlight = "#292e42",
   terminal_black = "#414868",
   fg_dark = "#a9b1d6",
