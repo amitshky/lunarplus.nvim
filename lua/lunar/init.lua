@@ -10,7 +10,7 @@ M.setup = function()
   end
 
   vim.o.termguicolors = true
-  vim.g.colors_name = 'lunar'
+  vim.g.colors_name = 'lunarplus'
 
   theme.set_highlights()
 end
