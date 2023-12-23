@@ -1,5 +1,5 @@
 local M = {}
-local theme = require('lunar.theme')
+local theme = require('lunarplus.theme')
 
 M.setup = function()
   vim.cmd('hi clear')

@@ -1,5 +1,5 @@
 
-local c = require('lunar.palette')
+local c = require('lunarplus.palette')
 
 local hl = vim.api.nvim_set_hl
 local theme = {}
