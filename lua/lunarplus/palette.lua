@@ -10,6 +10,7 @@ local colors = {
   bg1 = "#101010",
   bg2 = "#0a0a0a",
   bg3 = "#3b3b3b",
+  bg4 = "#2f2f2f",
   gray = "#888888",
   gray1 = "#7c6f64",
   gray2 = "#504945",
