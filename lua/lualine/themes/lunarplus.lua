@@ -5,7 +5,7 @@ local colors = {
 	red = "#f7768e",
 	yellow = "#e0af68",
 	fg = "#a9b1d6",
-	bg = "#16161e",
+	bg = "#0a0a0a",
 	gray = "#3b4261",
 }
 -- LuaFormatter on
